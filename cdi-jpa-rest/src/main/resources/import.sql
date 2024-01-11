@@ -1,0 +1,1 @@
+insert into persona (id,nombre,direccion,edad) values (1,'persona1','direccion1',1)
